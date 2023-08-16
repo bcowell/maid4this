@@ -1,9 +1,8 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Discover Unmatched Cleanliness and Comfort with Maid 4 This Cleaning Services"
+  content: "Elevate your living spaces with the expertise of **Maid 4 This Cleaning Services**. We're not just cleaning; we're creating an environment you'll love coming home to."
   button:
     enable: true
     label: "Get Started For Free"

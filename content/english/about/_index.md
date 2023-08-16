@@ -1,8 +1,7 @@
 ---
-title: "Maid 4 This Cleaning Services"
+title: "About"
 meta_title: "About"
-description: "cleaning services description"
-image: "/images/avatar.png"
+description: "about maid 4 this"
 draft: false
 ---
 

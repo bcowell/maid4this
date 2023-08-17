@@ -11,7 +11,7 @@ banner:
 # Features
 features:
   - title: "Comprehensive Cleaning Services"
-    image: "/images/service-1.png"
+    image: "/images/cleaner-1.jpg"
     content: "Choose Maid 4 This for reliable, efficient, and professional cleaning services that will leave your space spotless and refreshed. Trust us to provide a thorough and personalized cleaning experience you can rely on time and time again."
     button:
       enable: false
@@ -19,7 +19,7 @@ features:
       link: "#"
 
   - title: "Flexible Scheduling and Competitive Pricing"
-    image: "/images/service-2.png"
+    image: "/images/cleaner-2.jpg"
     content: "We recognize that your time and budget are valuable. That's why we offer flexible scheduling options to accommodate your busy life. Our competitive pricing ensures that premium cleaning services are accessible to all."
     button:
       enable: false
@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "Book a Cleaning"
-    image: "/images/service-3.png"
+    image: "/images/cleaner-3.jpg"
     content: "Ready to experience the difference in cleanliness? Get in touch with us today to schedule your next cleaning appointment. A cleaner, more comfortable home is just a click or call away."
     button:
       enable: false

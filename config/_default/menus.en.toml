@@ -15,15 +15,3 @@ weight = 2
 name = "Contact"
 url = "contact/"
 weight = 3
-
-
-# footer menu
-[[footer]]
-name = "About"
-url = "about/"
-weight = 1
-
-[[footer]]
-name = "Contact"
-url = "contact/"
-weight = 2

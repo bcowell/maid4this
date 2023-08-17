@@ -4,51 +4,35 @@ banner:
   title: "Discover Unmatched Cleanliness and Comfort with Maid 4 This Cleaning Services"
   content: "Elevate your living spaces with the expertise of **Maid 4 This Cleaning Services**. We're not just cleaning; we're creating an environment you'll love coming home to."
   button:
-    enable: true
+    enable: false
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "#"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Comprehensive Cleaning Services"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+    content: "Choose Maid 4 This for reliable, efficient, and professional cleaning services that will leave your space spotless and refreshed. Trust us to provide a thorough and personalized cleaning experience you can rely on time and time again."
     button:
       enable: false
       label: ""
-      link: ""
+      link: "#"
+
+  - title: "Flexible Scheduling and Competitive Pricing"
+    image: "/images/service-2.png"
+    content: "We recognize that your time and budget are valuable. That's why we offer flexible scheduling options to accommodate your busy life. Our competitive pricing ensures that premium cleaning services are accessible to all."
+    button:
+      enable: false
+      label: ""
+      link: "#"
+
+  - title: "Book a Cleaning"
+    image: "/images/service-3.png"
+    content: "Ready to experience the difference in cleanliness? Get in touch with us today to schedule your next cleaning appointment. A cleaner, more comfortable home is just a click or call away."
+    button:
+      enable: false
+      label: ""
+      link: "#"
 ---
 
 ### Gallery

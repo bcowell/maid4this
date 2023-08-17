@@ -50,6 +50,7 @@ module.exports = {
         dark: theme.colors.default.text_color.dark,
         primary: theme.colors.default.theme_color.primary,
         secondary: theme.colors.default.theme_color.secondary,
+        brand: theme.colors.default.theme_color.brand,
         body: theme.colors.default.theme_color.body,
         border: theme.colors.default.theme_color.border,
         "theme-light": theme.colors.default.theme_color.theme_light,
